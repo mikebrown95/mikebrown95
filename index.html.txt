@@ -1,3 +1,0 @@
-<h1> Private Harvester </h1>
-
-<button type="button">Click Me!</button>
